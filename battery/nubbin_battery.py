@@ -1,4 +1,4 @@
-from battery import Battery
+from battery.battery import Battery
 from helper import curr_date
 
 
